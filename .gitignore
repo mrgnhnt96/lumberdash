@@ -11,3 +11,5 @@ test/.test_coverage.dart
 **/packages
 **/pubspec.lock
 **/.packages
+plugins/firebase_lumberdash/example/.flutter-plugins-dependencies
+plugins/firebase_lumberdash/example/ios/Flutter/flutter_export_environment.sh
